@@ -1,15 +1,15 @@
 {
-  "id": "hook-start-equiv",
-  "name": "hook-start-equiv",
-  "title": "Hook 注入后 AI 主动执行 start 流程",
-  "description": "R1: start.md 强化指令（去掉停止点，连续执行 Phase 1-3）。R2: session-start hook 加 task 状态标签（ready/not ready）。R3: ready 标签改主动指令。",
+  "id": "learn-openspec-prd",
+  "name": "learn-openspec-prd",
+  "title": "学习 OpenSpec 体验流程，加强 PRD 制作",
+  "description": "借鉴 OpenSpec SDD 流程，将 prd.md 拆分为 prd+design+tasks 三个 artifact，支持 fast-forward 一次生成，check agent 增加 spec 验证。",
   "status": "planning",
   "dev_type": null,
   "scope": null,
   "priority": "P2",
   "creator": "taosu",
   "assignee": "taosu",
-  "createdAt": "2026-03-06",
+  "createdAt": "2026-03-07",
   "completedAt": null,
   "branch": null,
   "base_branch": "main",
@@ -41,6 +41,6 @@
   "relatedFiles": [],
   "notes": "",
   "meta": {
-    "linear_issue": "MIN-343"
+    "linear_issue": "MIN-347"
   }
 }
